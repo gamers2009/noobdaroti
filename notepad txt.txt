@@ -1,0 +1,7 @@
+{      
+    ip :  polticalsmpUAkn.aternos.me
+    port:27026
+    name:polticalsmp
+
+
+}
